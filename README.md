@@ -12,9 +12,9 @@ Each release corresponds to one app version and contains:
 - the build scripts used for that build (BtbN/FFmpeg-Builds),
 - the FFmpeg files shipped in the app package, unmodified (the LGPL v3 license text is included there).
 
-| Release | App |
-|---|---|
-| [`scollect-1.1.0.0`](https://github.com/SwiftAppsBavaria/ffmpeg-source/releases/tag/scollect-1.1.0.0) | sCollect 1.1.0.0 (Windows) |
+| App | Release | FFmpeg |
+|---|---|---|
+| sCollect 1.1.0.0 (Windows) | [`scollect-1.1.0.0`](https://github.com/SwiftAppsBavaria/ffmpeg-source/releases/tag/scollect-1.1.0.0) | `ffmpeg-n9.0.2-25-win64-lgpl-shared.zip` |
 
 ---
 
