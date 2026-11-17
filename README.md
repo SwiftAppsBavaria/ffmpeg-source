@@ -12,9 +12,13 @@ Each release corresponds to one app version and contains:
 - the build scripts used for that build (BtbN/FFmpeg-Builds),
 - the FFmpeg files shipped in the app package, unmodified (the LGPL v3 license text is included there).
 
-| App | Release | FFmpeg |
-|---|---|---|
-| sCollect 1.1.0.0 (Windows) | [`scollect-1.1.0.0`](https://github.com/SwiftAppsBavaria/ffmpeg-source/releases/tag/scollect-1.1.0.0) | `ffmpeg-n9.0.2-25-win64-lgpl-shared.zip` |
+## Downloads
+
+| App | Release | FFmpeg (shipped files) | Source code | Build scripts |
+|---|---|---|---|---|
+| sCollect 1.1.0.0 (Windows) | [`scollect-1.1.0.0`](https://github.com/SwiftAppsBavaria/ffmpeg-source/releases/tag/scollect-1.1.0.0) | [ffmpeg-n9.0.2-25-win64-lgpl-shared.zip](https://github.com/SwiftAppsBavaria/ffmpeg-source/releases/download/scollect-1.1.0.0/ffmpeg-n9.0.2-25-win64-lgpl-shared.zip) (64.8 MB) | [FFmpeg-67b60c310b-source.tar.gz](https://github.com/SwiftAppsBavaria/ffmpeg-source/releases/download/scollect-1.1.0.0/FFmpeg-67b60c310b-source.tar.gz) (16.5 MB) | [FFmpeg-Builds-63ac3265b0-scripts.tar.gz](https://github.com/SwiftAppsBavaria/ffmpeg-source/releases/download/scollect-1.1.0.0/FFmpeg-Builds-63ac3265b0-scripts.tar.gz) (0.1 MB) |
+
+SHA-256 checksums are listed on each release page. All releases: [Releases](https://github.com/SwiftAppsBavaria/ffmpeg-source/releases).
 
 ---
 
